@@ -2,6 +2,7 @@
 
 Author: Yunling Zhu
 
-License: CC BY-NC-SA 4.0
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
 
-![](./maltese.png)
+<img src="./maltese.png" width="277" />
+
